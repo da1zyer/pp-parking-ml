@@ -1,0 +1,6 @@
+path: ./data
+train: images/valid
+val: images/test
+
+nc: 3
+names: ['no', 'free', 'occupied']
