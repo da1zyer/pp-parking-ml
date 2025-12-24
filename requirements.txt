@@ -2,6 +2,7 @@ ultralytics
 torch
 torchvision
 opencv-python
+shapely
 numpy
 matplotlib
 pandas
